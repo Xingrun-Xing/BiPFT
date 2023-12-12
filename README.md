@@ -32,6 +32,6 @@ BiPFT also demonstrates improved robustness to hyperparameter changes, improved 
 * run `sh arun.sh`
 
 ## Pretrained model
-* [BCDNet-A](https://drive.google.com/file/d/103GiQUx422DpwGuTR0bhxfIJvVoR00M5/view?usp=sharing)
+* [BiPFT-B](https://drive.google.com/file/d/103GiQUx422DpwGuTR0bhxfIJvVoR00M5/view?usp=sharing)
 
 
