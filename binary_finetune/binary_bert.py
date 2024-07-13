@@ -1259,7 +1259,7 @@ def get_model(args, num_labels, new_config):
     student_config = copy.deepcopy(config)
     
     student_config.weight_bits = 1
-    student_config.input_bits = 4
+    student_config.input_bits = 1
     student_config.weight_quant_method = 'bwn'
     student_config.input_quant_method = 'elastic'
     student_config.clip_init_val = 2.5
